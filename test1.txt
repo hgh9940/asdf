@@ -1,0 +1,3 @@
+git 연습 
+
+test1.txt 옆에 U는 working directory가 된다. 
